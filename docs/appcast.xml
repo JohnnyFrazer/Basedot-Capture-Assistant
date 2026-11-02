@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Basedot Capture Assistant</title>
+        <item>
+            <title>8.0</title>
+            <pubDate>Mon, 02 Nov 2026 15:26:50 +0000</pubDate>
+            <link>https://JohnnyFrazer.github.io/Basedot-Capture-Assistant/appcast.xml</link>
+            <sparkle:version>8.0</sparkle:version>
+            <sparkle:shortVersionString>8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/JohnnyFrazer/Basedot-Capture-Assistant/releases/download/v8.0/Basedot-Capture-Assistant-8.0.zip" length="1263829" type="application/octet-stream" sparkle:edSignature="/ldiRzl8XtuqkAjnOZGEh2IJrmR/C8E2i1yGjZjGqeOtr6/Dw9fQT8qtMhmNUs3R8gmK45auM4lp729ZbCiWCQ=="/>
+        </item>
+    </channel>
+</rss>
